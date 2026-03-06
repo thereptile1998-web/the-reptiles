@@ -1,2 +1,3 @@
 # the-reptiles
 A base logo projector, commonly known as a Gobo projector, is a compact LED light fixture designed to cast a high-definition image of your company’s logo or safety signs onto floors, walls, or ceilings. They use a specialized glass or metal lens (the "gobo") cut with your specific design.
+A digital standee is a free-standing, vertical electronic display (usually an LCD or LED screen) encased in a sleek metal or acrylic frame. Most modern standees run on Android or Windows, allowing you to easily update videos, promotional images, and slideshows via a USB drive or cloud software.
